@@ -22,3 +22,5 @@ Die Maus ist keine Katze!
 * Freund
 * Feind
 * mehr
+<img src="maus.jpg"/>
+![Maus](maus.jpg)
